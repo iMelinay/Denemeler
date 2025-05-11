@@ -1,0 +1,260 @@
+body{
+    background-color: rgb(11, 11, 11);
+}
+
+.ana{
+    border: 0px royalblue groove;
+    width: 1000px;
+    height: 1200px;
+    margin: 50px auto;
+    box-shadow: 5px 6px 20px;
+    border-radius: 30px;
+    background-color: rgb(17, 17, 17);
+}
+
+.üst{
+    border: 0px royalblue groove;
+    width: 1000px;
+    height: 60px;
+    margin: auto;
+    border-radius: 30px 30px 0px 0px;
+}
+.üst p{
+    padding: 15px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.üst ul{
+    display: flex;
+    float: right;
+    list-style: none;
+    padding: 5px;
+}
+
+.üst ul:hover{
+    border-radius: 5px;
+}
+
+.üst li a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 30px;
+    font-weight: bold;
+}
+
+.üst li a:hover{
+    color: rgb(87, 103, 142);
+}
+.üst button{
+    float: right;
+    margin: 20px;
+    width: 4.5%;
+    height: 35px;
+    background-image: url(img/light_mode_24dp_000000_FILL0_wght400_GRAD0_opsz24.png);
+    background-position: center;
+    background-size: 60px 20px;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    box-shadow: 0px 0px 15px rgb(111, 110, 110);
+}
+.res{
+    border: 0px royalblue groove;
+    float: left;
+    width: 400px;
+    height: 550px;
+    margin: 20px;
+    border-radius: 1000px;
+    background-image: url(img/5c132379461c0e536db2b449d8c666e4.jpg);
+    background-size: cover;
+    box-shadow: 5px 6px 18px rgb(0, 0, 0);
+    transition: transform 0.3s ease;
+}
+.res:hover{
+    transform: scale(0.95);
+    filter: blur(2px);
+}
+.ilkpro{
+    border: 0px royalblue groove;
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 30px;
+    background-color: rgb(63, 63, 63);
+    background-image: url(img/b433446d7bd938a07557a6454c6506e1.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    box-shadow: 5px 6px 18px rgb(0, 0, 0);
+    transition: transform 0.3s ease;
+}
+.ilkpro p{
+    color: whitesmoke;
+    text-align: center;
+    margin: 145px 0px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ilkpro:hover{
+    transform: scale(0.95);
+    filter: blur(2px);
+}
+
+.ilkpro2{
+    border: 0px royalblue groove;
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 30px;
+    background-color: rgb(63, 63, 63);
+    background-image: url(img/f92e1877761560b360d1f9d5501cf4e0.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    box-shadow: 5px 6px 18px rgb(0, 0, 0);
+    transition: transform 0.3s ease;
+}
+.ilkpro2 p{
+    color: whitesmoke;
+    text-align: center;
+    margin: 145px 0px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ilkpro2:hover{
+    transform: scale(0.95);
+    filter: blur(2px);
+}
+.ilkpro3{
+    border: 0px royalblue groove;
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 30px;
+    background-color: rgb(63, 63, 63);
+    background-image: url(img/5f33671bf06d874101280f86ccf519ed.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    box-shadow: 5px 6px 18px rgb(0, 0, 0);
+    transition: transform 0.3s ease;
+}
+.ilkpro3 p{
+    color: whitesmoke;
+    text-align: center;
+    margin: 145px 0px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ilkpro3:hover{
+    transform: scale(0.95);
+    filter: blur(2px);
+}
+.ilkpro4{
+    border: 0px royalblue groove;
+    float: left;
+    width: 200px;
+    min-height: 250px;
+    margin: 20px;
+    border-radius: 30px;
+    background-color: rgb(63, 63, 63);
+    background-image: url(img/2874dcc15366e2d9ea0a9afe40181986.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    box-shadow: 5px 6px 18px rgb(0, 0, 0);
+    transition: transform 0.3s ease;
+}
+.ilkpro4 p{
+    color: whitesmoke;
+    text-align: center;
+    margin: 145px 0px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ilkpro4:hover{
+    transform: scale(0.95);
+    filter: blur(2px);
+}
+
+.altres{
+    border: 0px royalblue groove;
+    border-radius: 30px;
+    width: 500px;
+    height: 500px;
+    background-image: url(img/7c6786a4bb1ce24dafc4929edafb19f7.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 6px 18px rgb(0, 0, 0);
+    transition: transform 0.3s ease;
+    margin: 600px 20px 0px;
+    background-repeat: no-repeat;
+}
+
+.altres:hover{
+    transform: scale(0.95);
+    filter: blur(2px);
+}
+
+.işlem{
+    border: 0px royalblue groove;
+    border-radius: 30px;
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin: 80px 20px 0px;
+    box-shadow: 5px 6px 18px rgb(0, 0, 0);
+    background-color: rgb(63, 63, 63);
+}
+
+.işlem h1{
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin: 40px 60px 0px;
+    
+}
+
+#isim{
+    border-radius: 15px;
+    width: 300px;
+    height: 40px;
+    margin: 10px 60px 0px;
+    transition: transform 0.3s, backgorund-color 0.3s, color 0.3s;
+}
+#isim:hover{
+    transform: translateY(-5px);
+}
+#Mail{
+    border-radius: 15px;
+    width: 300px;
+    height: 40px;
+    margin: 10px 60px 0px;
+    transition: transform 0.3s, backgorund-color 0.3s, color 0.3s;
+}
+#Mail:hover{
+    transform: translateY(-5px);
+}
+#telefon{
+    border-radius: 15px;
+    width: 300px;
+    height: 40px;
+    margin: 10px 60px 0px;
+    transition: transform 0.3s, backgorund-color 0.3s, color 0.3s;
+}
+#telefon:hover{
+    transform: translateY(-5px);
+}
+.işlem button{
+    border-radius: 100px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(14, 32, 73);
+    margin: 20px 160px 0px;
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition:backgorund-color 0.3s, color 0.3s;
+}
+
+.işlem button:hover{
+    background-color: rgb(87, 103, 142);
+    color: black;
+}
+
